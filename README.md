@@ -6,7 +6,7 @@ This repository contains the source code for my personal academic website.
 
 ## About
 
-I am an Earth System Scientist and marine biogeochemical modeller at MARUM – Center for Marine Environmental Sciences, University of Bremen. My research focuses on the long-term carbon cycle, marine sediments, ocean biogeochemistry, and Earth system modelling.
+I am an Earth System Scientist and marine biogeochemical modeller at MARUM – Center for Marine Environmental Sciences, University of Bremen. My research focuses on the long-term carbon cycle, marine sediments, ocean biogeochemistry, and Earth system modelling. I like running and cats.
 
 ## Website
 
