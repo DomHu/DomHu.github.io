@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Earth System Modelling # the website title (if blank, full name will be used instead)
+title: Dominik Hülse # the website title (if blank, full name will be used instead)
 first_name: Dominik
 middle_name: 
 last_name: Hülse
-email: dhuelse@marunm.de
+email: dhuelse@marum.de
 contact_note: >
   The best way to reach me is by email.
 keywords: earth system modelling, marine biogeochemistry, sediment diagenesis, carbon cycle, cGENIE, OMEN-SED
