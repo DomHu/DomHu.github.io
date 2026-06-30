@@ -6,13 +6,14 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: 1.jpg
+  image: DHuelse_Picture_blurry.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    <p>ZfT, 5320</p>
+    <p>MARUM, University of Bremen</p>
+    <p>Leobener Str. 8</p>
+    <p>28359 Bremen, Germany</p>
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
