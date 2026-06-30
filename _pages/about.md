@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. MARUM – Center for Marine Environmental Sciences, University of Bremen, Germany
 
 profile:
   align: right
@@ -23,8 +23,10 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an **Earth System Scientist** and **biogeochemical modeller** fascinated by the ways our planet regulates itself. My research focuses on how interactions between the oceans, sediments, biosphere, and climate regulate Earth's carbon cycle across timescales ranging from decades to millions of years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research combines Earth system modelling, marine biogeochemistry, and sediment diagenesis to address two closely connected questions: how and where organic carbon is stored in modern marine sediments, and how carbon-cycle feedbacks shaped past climate change and mass extinctions. By combining observations, machine learning, and numerical models, I aim to improve our understanding of Earth's long-term climate resilience and the consequences of ongoing anthropogenic climate change.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently a postdoctoral researcher at **MARUM – Center for Marine Environmental Sciences, University of Bremen**, where I am part of the Excellence Cluster **The Ocean Floor – Earth's Uncharted Interface**.
+
+I am always happy to discuss potential collaborations, student projects, or opportunities related to Earth system modelling, marine biogeochemistry, and carbon-cycle research.

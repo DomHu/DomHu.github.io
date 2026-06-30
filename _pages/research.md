@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 My research combines Earth system modelling, marine biogeochemistry, sediment diagenesis, and data-driven approaches to understand how interactions between the ocean, sediments, biosphere, and climate regulate Earth's carbon cycle across timescales ranging from decades to millions of years. I am particularly interested in the feedbacks that govern climate stability, carbon sequestration, and Earth-system resilience, and in using the geological past to improve our understanding of future environmental change.
