@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: \* These authors contributed equally.
+description: * These authors contributed equally.
 nav: true
 nav_order: 3
 ---
@@ -15,11 +15,11 @@ Faust, J. C., Zhang, Y., Born, A., **Hülse, D.**, von Dobeneck, T., Schulz, H.,
 
 \*Arndt, S., \***Hülse, D.**, Diesing, M., Paradis Vilar, S., Smeaton, C. (In prep for resubmission). Organic carbon burial in coastal sediments. [https://doi.org/10.21203/rs.3.rs-8174193/v1](https://doi.org/10.21203/rs.3.rs-8174193/v1)
 
-Guenser, P., Pohl, A., Leroy, M., **Hülse, D.**, and Beaugrand, G. (Under Review). A niche modelling approach adapted to small datasets with Permian/Triassic conodonts as a case study. *Biogeography*.
-
 ## Articles accepted / published
 
 Arndt, S. and **Hülse, D.** (2026). Burned or buried: What controls the long-term preservation of organic carbon? *Elements*, 22, 42–47. [https://doi.org/10.2138/gselements.22.1.42](https://doi.org/10.2138/gselements.22.1.42)
+
+Guenser, P., Pohl, A., Leroy, M., **Hülse, D.**, and Beaugrand, G. (Accepted). A niche modelling approach adapted to small datasets with Permian/Triassic conodonts as a case study. *Biogeography*.
 
 Carrapa, P., Clementz, M., Cosentino, N., DiNezio, N., Vervoort, P., Thirumalai, K., Abell, J., **Hülse, D.**, Martinez, P., and Gutstein, C. (2026). Andean volcanism, ocean fertilization, marine ecosystem turnover, and global cooling in the Late Miocene. *Communications Earth & Environment*, 7, 335. [https://doi.org/10.1038/s43247-026-03457-4](https://doi.org/10.1038/s43247-026-03457-4)
 

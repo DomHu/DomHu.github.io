@@ -21,7 +21,7 @@ Current research topics include:
 - Continental margin carbon cycling
 - Nutrient regeneration and benthic fluxes
 
-<div style="max-width:400px; margin:0 auto;">
+<div style="max-width:600px; margin:0 auto;">
   <img src="/assets/img/OMEN-SED_Website.png"
        alt="Conceptual diagram of the OMEN-SED early diagenetic model"
        style="width:100%;">
@@ -74,7 +74,7 @@ Current research topics include:
 - Uncertainty in paleoclimate reconstructions
 - Earth system model–data integration
 
-<div style="max-width:400px; margin:0 auto;">
+<div style="max-width:450px; margin:0 auto;">
   <img src="/assets/img/ProxyPreservation_Website.png"
        alt="Conceptual illustration of how bioturbation alters environmental signals in marine sediments"
        style="width:100%;">
