@@ -1,9 +1,9 @@
 :root {
-  --global-theme-color: #0B4F8A;
-  --global-hover-color: #003B6F;
+  --global-theme-color: #0B4F8A !important;
+  --global-hover-color: #003B6F !important;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #5FA8FF;
-  --global-hover-color: #84C0FF;
+  --global-theme-color: #5FA8FF !important;
+  --global-hover-color: #84C0FF !important;
 }
