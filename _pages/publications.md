@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: * These authors contributed equally.
+description: "* These authors contributed equally."
 nav: true
 nav_order: 3
 ---
@@ -13,7 +13,7 @@ Xu, S., Hull, P., Ridgwell, A., and **Hülse, D.** (Under Review). Exploring the
 
 Faust, J. C., Zhang, Y., Born, A., **Hülse, D.**, von Dobeneck, T., Schulz, H., Janßen, A., Mukherjee, S., Detlef, H., Seidenkrantz, M.-S., Jackson, R., Titschack, J., de Vernal, A., and Kucera, M. (In Revision). Persistent influence of the North Atlantic Oscillation on Late Holocene hydroclimate in southwestern Greenland. *Nature Communications*.
 
-\*Arndt, S., \***Hülse, D.**, Diesing, M., Paradis Vilar, S., Smeaton, C. (In prep for resubmission). Organic carbon burial in coastal sediments. [https://doi.org/10.21203/rs.3.rs-8174193/v1](https://doi.org/10.21203/rs.3.rs-8174193/v1)
+\*Arndt, S., \* **Hülse, D.**, Diesing, M., Paradis Vilar, S., Smeaton, C. (In prep for resubmission). Organic carbon burial in coastal sediments. [https://doi.org/10.21203/rs.3.rs-8174193/v1](https://doi.org/10.21203/rs.3.rs-8174193/v1)
 
 ## Articles accepted / published
 
@@ -27,13 +27,13 @@ Taylor, K., Rauzi, S., Isson, T., Ibarra, D. E., **Hülse, D.**, Kimmig, S. R., 
 
 Vervoort, P., Kirtland Turner, S., **Hülse, D.**, Greene, S. E., and Ridgwell, A. (2026). Earth System Model Analysis of how Astronomical Forcing is Imprinted onto the Marine Geological Record: The Role of the Organic Carbon Cycle and Feedbacks. *Paleoceanography & Paleoclimatology*. [https://doi.org/10.1029/2025PA005181](https://doi.org/10.1029/2025PA005181)
 
-\***Hülse, D.** and \*Ridgwell, A. (2025). Instability in the geological regulation of Earth’s climate. *Science*. [https://doi.org/10.1126/science.adh7730](https://doi.org/10.1126/science.adh7730)
+\* **Hülse, D.** and \*Ridgwell, A. (2025). Instability in the geological regulation of Earth’s climate. *Science*. [https://doi.org/10.1126/science.adh7730](https://doi.org/10.1126/science.adh7730)
 
 Pohl, A., Stockey, R. G., Dai, X., Yohler, R., Le Hir, G., **Hülse, D.**, Brayard, A., Finnegan, S., and Ridgwell, A. (2023). Why the early Paleozoic was intrinsically prone to metazoan extinction. *Science Advances*. [https://doi.org/10.1126/sciadv.adg767](https://doi.org/10.1126/sciadv.adg767)
 
 Pika, P., **Hülse, D.**, Eglinton, T. I., and Arndt, S. (2023). Regional patterns of apparent organic matter reactivity in marine sediments. *Global Biogeochemical Cycles*. [https://doi.org/10.1029/2022GB007636](https://doi.org/10.1029/2022GB007636)
 
-\*Bradley, J. A., \***Hülse, D.**, LaRowe, D. E., and Arndt, S. (2022). Transfer efficiency of organic carbon in marine sediments. *Nature Communications*, 13, 7297. [https://doi.org/10.1038/s41467-022-35112-9](https://doi.org/10.1038/s41467-022-35112-9)
+\*Bradley, J. A., \* **Hülse, D.**, LaRowe, D. E., and Arndt, S. (2022). Transfer efficiency of organic carbon in marine sediments. *Nature Communications*, 13, 7297. [https://doi.org/10.1038/s41467-022-35112-9](https://doi.org/10.1038/s41467-022-35112-9)
 
 **Hülse, D.**, Vervoort, P., van de Velde, S., Kanzaki, Y., Arndt, S., Hoogakker, B., Boudreau, B., Bottjer, D., Middelburg, J., Volkenborn, N., Kirtland Turner, S., and Ridgwell, A. (2022). Assessing the impact of bioturbation on the sedimentary record through models. *Earth-Science Reviews*. [https://doi.org/10.1016/j.earscirev.2022.104213](https://doi.org/10.1016/j.earscirev.2022.104213)
 
