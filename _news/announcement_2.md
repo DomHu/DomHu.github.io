@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- How is Astronomical Forcing Imprinted onto the Marine Geological Record, <a href='https://doi.org/10.1029/2025PA005181'>in <i>Paleoceanogr. Paleoclimatol.</i></a>
+ How is Astronomical Forcing Imprinted onto the Marine Geological Record? <a href='https://doi.org/10.1029/2025PA005181'>in <i>Paleoceanogr. Paleoclimatol.</i></a>
