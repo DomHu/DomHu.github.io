@@ -27,6 +27,16 @@ Current research topics include:
 
 I use Earth system models to investigate how interactions between climate, ocean circulation, marine biogeochemistry, and sediments have shaped Earth's climate throughout geological history. My work focuses on understanding the mechanisms controlling carbon-cycle feedbacks, climate recovery, and environmental change during past greenhouse climates and mass extinction events. Insights gained from my modern sediment research provide important constraints for these long-term simulations.
 
+<p align="center">
+  <img src="/assets/img/Research_Theme_PaleoModelling.png"
+       alt="Earth system modelling across geological time"
+       style="width:100%; max-width:1200px;">
+  <br>
+  <em>
+  I use Earth system models to investigate past climate change, carbon-cycle feedbacks, and possible future trajectories of the Earth system.
+  </em>
+</p>
+
 Current research topics include:
 
 - Carbon-cycle feedbacks during greenhouse climates
