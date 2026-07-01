@@ -10,18 +10,16 @@ My research combines Earth system modelling, marine biogeochemistry, sediment di
 
 ---
 
-## Modern Marine Organic Carbon Burial and Sediment Biogeochemistry
+## Modern Marine Carbon Burial and Biogeochemistry
 
 Marine sediments are Earth's largest long-term carbon sink and play a key role in regulating climate through the burial of organic carbon and the recycling of nutrients. My research combines seafloor observations, machine learning, and numerical early diagenetic models to quantify the controls on organic carbon preservation, nutrient regeneration, and benthic biogeochemical cycling from local scales to the global ocean.
 
 Current research topics include:
 
-- Global marine organic carbon burial
 - Early diagenetic modelling (OMEN-SED)
-- Nutrient regeneration and benthic fluxes
-- Coastal blue carbon
+- Global marine organic carbon burial
 - Continental margin carbon cycling
-- Greenhouse gas production in marine sediments
+- Nutrient regeneration and benthic fluxes
 
 ---
 
@@ -31,13 +29,10 @@ I use Earth system models to investigate how interactions between climate, ocean
 
 Current research topics include:
 
-- Carbon-cycle feedbacks during past greenhouse climates
-- Hyperthermal recovery and Earth-system resilience
+- Carbon-cycle feedbacks during greenhouse climates
 - Ocean deoxygenation and anoxia
-- Marine phosphorus cycling
-- Climate impacts of large igneous province volcanism
-- Carbon injection rates and climate recovery
-- Earth system modelling of mass extinctions
+- Mass extinctions and Earth-system resilience
+- Large igneous province volcanism and climate change
 
 ---
 
