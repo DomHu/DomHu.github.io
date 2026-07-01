@@ -14,7 +14,14 @@ My research combines Earth system modelling, marine biogeochemistry, sediment di
 
 Marine sediments are Earth's largest long-term carbon sink and play a key role in regulating climate through the burial of organic carbon and the recycling of nutrients. My research combines seafloor observations, machine learning, and numerical early diagenetic models to quantify the controls on organic carbon preservation, nutrient regeneration, and benthic biogeochemical cycling from local scales to the global ocean.
 
-<div style="max-width:900px; margin:0 auto;">
+Current research topics include:
+
+- Early diagenetic modelling (OMEN-SED)
+- Global marine organic carbon burial
+- Continental margin carbon cycling
+- Nutrient regeneration and benthic fluxes
+
+<div style="max-width:650px; margin:0 auto;">
   <img src="/assets/img/OMEN-SED_Website.png"
        alt="Conceptual diagram of the OMEN-SED early diagenetic model"
        style="width:100%;">
@@ -28,13 +35,6 @@ Marine sediments are Earth's largest long-term carbon sink and play a key role i
     </em>
   </p>
 </div>
-
-Current research topics include:
-
-- Early diagenetic modelling (OMEN-SED)
-- Global marine organic carbon burial
-- Continental margin carbon cycling
-- Nutrient regeneration and benthic fluxes
 
 ---
 
