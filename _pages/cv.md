@@ -6,16 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-# Curriculum Vitae
-
 A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260630.pdf).
 
 ---
 
 ## Current Position
 
-**Since 2024**  
-**Postdoctoral Fellow**  
+**Since 2024 - Postdoctoral Fellow**  
 MARUM – Center for Marine Environmental Sciences  
 University of Bremen, Germany
 
@@ -42,8 +39,9 @@ Research focus:
 
 ## Education
 
-**PhD** Physical Geography  
-University of Bristol (2018)
+**PhD** Biogeochemical & Earth System Modelling  
+School of Geographical Sciences  
+University of Bristol (2018)  
 Advisor: Sandra Arndt
 
 Dissertation:
@@ -66,7 +64,7 @@ Johannes Gutenberg University Mainz (2008)
 
 ### Major previous funding
 
-- **2024** ERC Starting Grant (**A-rated** but not funded due to insufficient funds :( )
+- **2024** ERC Starting Grant – **A-rated** but not funded due to insufficient funds :( 
 - **2024–2026** MARUM Cluster of Excellence Fellowship
 - **2019–2022** Simons Foundation Postdoctoral Fellowship in Marine Microbial Ecology
 
@@ -93,7 +91,7 @@ Selected invited seminars include
 
 ## Teaching
 
-### University courses
+### University courses and classes
 
 - Numerical Climate Modelling Summer School (Dijon)
 - Carbon Cycle Summer School (Nanjing online)
