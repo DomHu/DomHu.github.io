@@ -14,6 +14,21 @@ My research combines Earth system modelling, marine biogeochemistry, sediment di
 
 Marine sediments are Earth's largest long-term carbon sink and play a key role in regulating climate through the burial of organic carbon and the recycling of nutrients. My research combines seafloor observations, machine learning, and numerical early diagenetic models to quantify the controls on organic carbon preservation, nutrient regeneration, and benthic biogeochemical cycling from local scales to the global ocean.
 
+<div style="max-width:900px; margin:0 auto;">
+  <img src="/assets/img/OMEN-SED_Website.png"
+       alt="Conceptual diagram of the OMEN-SED early diagenetic model"
+       style="width:100%;">
+
+  <p style="margin-top:0.5em; text-align:left;">
+    <em>
+    Schematic overview of the OMEN-SED early diagenetic model. The model simulates
+    organic matter degradation, redox zonation, porewater chemistry, and benthic
+    carbon and nutrient cycling to quantify long-term organic carbon burial in
+    marine sediments.
+    </em>
+  </p>
+</div>
+
 Current research topics include:
 
 - Early diagenetic modelling (OMEN-SED)
@@ -27,15 +42,17 @@ Current research topics include:
 
 I use Earth system models to investigate how interactions between climate, ocean circulation, marine biogeochemistry, and sediments have shaped Earth's climate throughout geological history. My work focuses on understanding the mechanisms controlling carbon-cycle feedbacks, climate recovery, and environmental change during past greenhouse climates and mass extinction events. Insights gained from my modern sediment research provide important constraints for these long-term simulations.
 
-<p align="center">
+<div style="max-width:1200px; margin:0 auto;">
   <img src="/assets/img/Research_Theme_PaleoModelling.png"
        alt="Earth system modelling across geological time"
-       style="width:100%; max-width:1200px;">
-  <br>
-  <em>
-  I use Earth system models to investigate past climate change, carbon-cycle feedbacks, and possible future trajectories of the Earth system.
-  </em>
-</p>
+       style="width:100%;">
+
+  <p style="margin-top:0.5em; text-align:left;">
+    <em>
+    I use Earth system models to investigate past climate change, carbon-cycle feedbacks, and possible future trajectories of the Earth system.
+    </em>
+  </p>
+</div>
 
 Current research topics include:
 
