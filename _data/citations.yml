@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-10'
 papers:
   oczn62UAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -58,7 +58,7 @@ papers:
     title: 'Bioturbation: How Much is it Messing up our View of the Past?'
     year: '2019'
   oczn62UAAAAJ:IWHjjKOFINEC:
-    citations: 0
+    citations: 1
     title: Organic Carbon Burial in Global Continental Margin Sediments
     year: '2026'
   oczn62UAAAAJ:IjCSPb-OGe4C:
@@ -90,7 +90,7 @@ papers:
     title: 'derpycode/cgenie. muffin: v0. 9.771 dfd8'
     year: Unknown Year
   oczn62UAAAAJ:MXK_kJrjxJIC:
-    citations: 27
+    citations: 28
     title: Assessing the impact of bioturbation on sedimentary isotopic records through numerical models
     year: '2022'
   oczn62UAAAAJ:NMxIlDl6LWMC:
@@ -174,7 +174,7 @@ papers:
     title: Regional and global patterns of apparent organic matter reactivity in marine sediments
     year: '2023'
   oczn62UAAAAJ:YsMSGLbcyi4C:
-    citations: 26
+    citations: 27
     title: Iron and sulfur cycling in the cGENIE. muffin Earth system model (v0. 9.21)
     year: '2021'
   oczn62UAAAAJ:Zph67rFs4hoC:
@@ -242,7 +242,7 @@ papers:
     title: "Evolution and tipping points of biogeochemical cycles throughout Earth\u2019s history"
     year: '2025'
   oczn62UAAAAJ:kNdYIx-mwKoC:
-    citations: 55
+    citations: 56
     title: Transfer efficiency of organic carbon in marine sediments
     year: '2022'
   oczn62UAAAAJ:k_IJM867U9cC:
