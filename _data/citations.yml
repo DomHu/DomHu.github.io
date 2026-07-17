@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-17'
 papers:
   oczn62UAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: A Dynamic Biological Pump Controlled the Global Redox Landscape during the End-Permian Extinction
     year: '2020'
   oczn62UAAAAJ:4TOpqqG69KYC:
-    citations: 16
+    citations: 17
     title: Why the Early Paleozoic was intrinsically prone to marine extinction
     year: '2023'
   oczn62UAAAAJ:7PzlFSSx8tAC:
@@ -85,12 +85,16 @@ papers:
     citations: 0
     title: Non-Live Abstracts and Presentations in Session 8f
     year: Unknown Year
+  oczn62UAAAAJ:M05iB0D1s5AC:
+    citations: 0
+    title: Spatial Modeling of Organic Carbon Burial in Arctic Marine Sediments under Climate Change
+    year: '2026'
   oczn62UAAAAJ:M3NEmzRMIkIC:
     citations: 0
     title: 'derpycode/cgenie. muffin: v0. 9.771 dfd8'
     year: Unknown Year
   oczn62UAAAAJ:MXK_kJrjxJIC:
-    citations: 28
+    citations: 29
     title: Assessing the impact of bioturbation on sedimentary isotopic records through numerical models
     year: '2022'
   oczn62UAAAAJ:NMxIlDl6LWMC:
@@ -213,6 +217,10 @@ papers:
     citations: 0
     title: Temperature-driven nutrient recycling and euxinia as a marine mass extinction mechanism
     year: '2020'
+  oczn62UAAAAJ:g5m5HwL7SMYC:
+    citations: 0
+    title: Vulnerable Organic Carbon Stocks in Global Continental Margin Sediments
+    year: '2026'
   oczn62UAAAAJ:hC7cP41nSMkC:
     citations: 1
     title: 'Heterogenous lithium isotope records in carbonate and siliciclastic archives across the end-Permian mass extinction: an indicator for removal through reverse weathering'
@@ -242,7 +250,7 @@ papers:
     title: "Evolution and tipping points of biogeochemical cycles throughout Earth\u2019s history"
     year: '2025'
   oczn62UAAAAJ:kNdYIx-mwKoC:
-    citations: 56
+    citations: 57
     title: Transfer efficiency of organic carbon in marine sediments
     year: '2022'
   oczn62UAAAAJ:k_IJM867U9cC:
@@ -294,7 +302,7 @@ papers:
     title: Traits classes for polynomial gcd computation over algebraic extensions
     year: '2007'
   oczn62UAAAAJ:u5HHmVD_uO8C:
-    citations: 93
+    citations: 94
     title: Understanding the causes and consequences of past marine carbon cycling variability through models
     year: '2017'
   oczn62UAAAAJ:ufrVoPGSRksC:
