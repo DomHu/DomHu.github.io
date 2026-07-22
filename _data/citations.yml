@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-22'
 papers:
   oczn62UAAAAJ:-f6ydRqryjwC:
     citations: 3
@@ -30,7 +30,7 @@ papers:
     title: A Dynamic Biological Pump Controlled the Global Redox Landscape during the End-Permian Extinction
     year: '2020'
   oczn62UAAAAJ:4TOpqqG69KYC:
-    citations: 17
+    citations: 18
     title: Why the Early Paleozoic was intrinsically prone to marine extinction
     year: '2023'
   oczn62UAAAAJ:7PzlFSSx8tAC:
@@ -38,11 +38,11 @@ papers:
     title: The Role of Tectonic, Climatic, and Biotic Boundary Conditions in Controlling Plankton Diversity
     year: '2021'
   oczn62UAAAAJ:9ZlFYXVOiuMC:
-    citations: 18
+    citations: 19
     title: "Instability in the geological regulation of Earth\u2019s climate"
     year: '2025'
   oczn62UAAAAJ:9yKSN-GCB0IC:
-    citations: 42
+    citations: 43
     title: 'OMEN-SED 1.0: a novel, numerically efficient organic matter sediment diagenesis module for coupling to Earth system models'
     year: '2018'
   oczn62UAAAAJ:BqipwSGYUEgC:
@@ -62,7 +62,7 @@ papers:
     title: Organic Carbon Burial in Global Continental Margin Sediments
     year: '2026'
   oczn62UAAAAJ:IjCSPb-OGe4C:
-    citations: 32
+    citations: 33
     title: Mitigation of extreme ocean anoxic event conditions by organic matter sulfurization
     year: '2019'
   oczn62UAAAAJ:JV2RwH3_ST0C:
@@ -178,7 +178,7 @@ papers:
     title: Regional and global patterns of apparent organic matter reactivity in marine sediments
     year: '2023'
   oczn62UAAAAJ:YsMSGLbcyi4C:
-    citations: 27
+    citations: 28
     title: Iron and sulfur cycling in the cGENIE. muffin Earth system model (v0. 9.21)
     year: '2021'
   oczn62UAAAAJ:Zph67rFs4hoC:
@@ -234,7 +234,7 @@ papers:
     title: 'imuds/iMP: Revised for GMD'
     year: Unknown Year
   oczn62UAAAAJ:hqOjcs7Dif8C:
-    citations: 58
+    citations: 60
     title: End-Permian marine extinction due to temperature-driven nutrient recycling and euxinia
     year: '2021'
   oczn62UAAAAJ:iH-uZ7U-co4C:
@@ -250,7 +250,7 @@ papers:
     title: "Evolution and tipping points of biogeochemical cycles throughout Earth\u2019s history"
     year: '2025'
   oczn62UAAAAJ:kNdYIx-mwKoC:
-    citations: 57
+    citations: 59
     title: Transfer efficiency of organic carbon in marine sediments
     year: '2022'
   oczn62UAAAAJ:k_IJM867U9cC:
@@ -281,6 +281,10 @@ papers:
     citations: 5
     title: 'Burned or buried: what controls the long-term preservation of organic carbon?'
     year: '2026'
+  oczn62UAAAAJ:pqnbT2bcN3wC:
+    citations: 0
+    title: A Niche Modelling Approach Adapted to Small Datasets With Permian/Triassic Conodonts as a Case Study
+    year: '2026'
   oczn62UAAAAJ:qUcmZB5y_30C:
     citations: 0
     title: Organic carbon burial in continental margin sediments of the global ocean
@@ -302,7 +306,7 @@ papers:
     title: Traits classes for polynomial gcd computation over algebraic extensions
     year: '2007'
   oczn62UAAAAJ:u5HHmVD_uO8C:
-    citations: 94
+    citations: 95
     title: Understanding the causes and consequences of past marine carbon cycling variability through models
     year: '2017'
   oczn62UAAAAJ:ufrVoPGSRksC:
@@ -310,7 +314,7 @@ papers:
     title: 'A model for marine sedimentary carbonate diagenesis and paleoclimate proxy signal tracking: IMP v1. 0'
     year: '2021'
   oczn62UAAAAJ:vV6vV6tmYwMC:
-    citations: 6
+    citations: 7
     title: Transfer efficiency of organic carbon in marine sediments, Nat. Commun., 13, 7297
     year: '2022'
   oczn62UAAAAJ:zYLM7Y9cAGgC:
