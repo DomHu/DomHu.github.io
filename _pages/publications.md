@@ -20,7 +20,7 @@ Faust, J. C., Zhang, Y., Born, A., **Hülse, D.**, von Dobeneck, T., Schulz, H.,
 
 Arndt, S. and **Hülse, D.** (2026). Burned or buried: What controls the long-term preservation of organic carbon? *Elements*, 22, 42–47. [https://doi.org/10.2138/gselements.22.1.42](https://doi.org/10.2138/gselements.22.1.42)
 
-Guenser, P., Pohl, A., Leroy, M., **Hülse, D.**, and Beaugrand, G. (Accepted). A niche modelling approach adapted to small datasets with Permian/Triassic conodonts as a case study. *Biogeography*.
+Guenser, P., Pohl, A., Leroy, M., **Hülse, D.**, and Beaugrand, G. (2026). A niche modelling approach adapted to small datasets with Permian/Triassic conodonts as a case study. *Journal of Biogeography*  53, e70302. [https://doi.org/10.1111/jbi.70302](https://doi.org/10.1111/jbi.70302)
 
 Carrapa, P., Clementz, M., Cosentino, N., DiNezio, N., Vervoort, P., Thirumalai, K., Abell, J., **Hülse, D.**, Martinez, P., and Gutstein, C. (2026). Andean volcanism, ocean fertilization, marine ecosystem turnover, and global cooling in the Late Miocene. *Communications Earth & Environment*, 7, 335. [https://doi.org/10.1038/s43247-026-03457-4](https://doi.org/10.1038/s43247-026-03457-4)
 
