@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ecological Niche Modelling for the Permian/Triassic boundary <a href='http://dx.doi.org/10.1111/jbi.70302'>in <i>Elements</i></a>
+Ecological Niche Modelling for the Permian/Triassic boundary <a href='http://dx.doi.org/10.1111/jbi.70302'>in <i>Biogeography</i></a>
