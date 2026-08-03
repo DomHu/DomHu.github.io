@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Articles submitted / under review / in revision
 
-Xu, S., Hull, P., Ridgwell, A., and **Hülse, D.** (Under Review). Exploring the interacting effects of boundary conditions on benthic oxygenation using model worlds. *Geobiology*.
+Xu, S., Hull, P., Ridgwell, A., and **Hülse, D.** (In Revision). Exploring the interacting effects of boundary conditions on benthic oxygenation using model worlds. *Geobiology*.
 
 \*Arndt, S., \* **Hülse, D.**, Diesing, M., Paradis Vilar, S., Smeaton, C. (In prep for resubmission). Organic carbon burial in coastal sediments. [https://doi.org/10.21203/rs.3.rs-8174193/v1](https://doi.org/10.21203/rs.3.rs-8174193/v1)
 
