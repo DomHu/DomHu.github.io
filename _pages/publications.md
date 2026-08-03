@@ -12,13 +12,13 @@ nav_order: 3
 
 Xu, S., Hull, P., Ridgwell, A., and **Hülse, D.** (Under Review). Exploring the interacting effects of boundary conditions on benthic oxygenation using model worlds. *Geobiology*.
 
-Faust, J. C., Zhang, Y., Born, A., **Hülse, D.**, von Dobeneck, T., Schulz, H., Janßen, A., Mukherjee, S., Detlef, H., Seidenkrantz, M.-S., Jackson, R., Titschack, J., de Vernal, A., and Kucera, M. (In Revision). Persistent influence of the North Atlantic Oscillation on Late Holocene hydroclimate in southwestern Greenland. *Nature Communications*.
-
 \*Arndt, S., \* **Hülse, D.**, Diesing, M., Paradis Vilar, S., Smeaton, C. (In prep for resubmission). Organic carbon burial in coastal sediments. [https://doi.org/10.21203/rs.3.rs-8174193/v1](https://doi.org/10.21203/rs.3.rs-8174193/v1)
 
 ## Articles accepted / published
 
 Arndt, S. and **Hülse, D.** (2026). Burned or buried: What controls the long-term preservation of organic carbon? *Elements*, 22, 42–47. [https://doi.org/10.2138/gselements.22.1.42](https://doi.org/10.2138/gselements.22.1.42)
+
+Faust, J. C., Zhang, Y., Born, A., **Hülse, D.**, von Dobeneck, T., Schulz, H., Janßen, A., Mukherjee, S., Detlef, H., Seidenkrantz, M.-S., Jackson, R., Titschack, J., de Vernal, A., and Kucera, M. (Accepted). Persistent influence of the North Atlantic Oscillation on Late Holocene hydroclimate in southwestern Greenland. *Nature Communications*.
 
 Guenser, P., Pohl, A., Leroy, M., **Hülse, D.**, and Beaugrand, G. (2026). A niche modelling approach adapted to small datasets with Permian/Triassic conodonts as a case study. *Journal of Biogeography*  53, e70302. [https://doi.org/10.1111/jbi.70302](https://doi.org/10.1111/jbi.70302)
 
