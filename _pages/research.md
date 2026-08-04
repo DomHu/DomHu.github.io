@@ -6,13 +6,15 @@ nav: true
 nav_order: 2
 ---
 
-My research combines Earth system modelling, marine biogeochemistry, sediment diagenesis, and data-driven approaches to understand the **dynamics of the Earth system** and how interactions between the ocean, sediments, biosphere, and climate regulate Earth's carbon cycle across timescales ranging from decades to millions of years. I am particularly interested in the feedbacks that govern climate stability, carbon sequestration, and Earth-system resilience, and in using the geological past to improve our understanding of future environmental change.
+My research combines Earth system modelling, marine biogeochemistry, sediment diagenesis, and data-driven approaches to understand the **dynamics of the Earth system** and the feedbacks that regulate carbon and nutrient cycling, climate stability, and ecosystem resilience across timescales ranging from decades to millions of years. By using the geological past as a natural laboratory, I aim to better understand the long-term consequences of ongoing anthropogenic climate change.
+
+Together, these research directions aim to uncover the biological and biogeochemical feedbacks that regulate the long-term resilience of the Earth system.
 
 ---
 
 ## Modern Marine Carbon Burial and Biogeochemistry
 
-Marine sediments are Earth's largest long-term carbon sink and play a key role in regulating climate through the burial of organic carbon and the recycling of nutrients. My research combines seafloor observations, machine learning, and numerical early diagenetic models to quantify the controls on organic carbon preservation, nutrient regeneration, and benthic biogeochemical cycling from local scales to the global ocean.
+Marine sediments are Earth's largest long-term carbon sink and play a fundamental role in regulating climate by storing organic carbon and recycling nutrients that sustain marine productivity. My research combines seafloor observations, machine learning, and numerical early diagenetic models to understand how interactions between marine ecosystems, sediments, and ocean biogeochemistry control carbon sequestration and nutrient cycling from local scales to the global ocean.
 
 Current research topics include:
 
@@ -40,7 +42,7 @@ Current research topics include:
 
 ## Earth system dynamics through geological time
 
-I use Earth system models to investigate how interactions between climate, ocean circulation, marine biogeochemistry, and sediments have shaped Earth's climate throughout geological history. My work focuses on understanding the mechanisms controlling carbon-cycle feedbacks, climate recovery, and environmental change during past greenhouse climates and mass extinction events. Insights gained from my modern sediment research provide important constraints for these long-term simulations.
+I use Earth system models to investigate how interactions between climate, marine ecosystems, ocean circulation, biogeochemistry, and sediments have shaped Earth's climate throughout geological history. My work focuses on understanding the mechanisms controlling carbon-cycle feedbacks, climate recovery, and environmental change during past greenhouse climates and mass extinction events. Insights gained from my modern sediment research provide important constraints for these long-term simulations.
 
 <div style="max-width:1200px; margin:0 auto;">
   <img src="/assets/img/Research_Theme_PaleoModelling.png"
