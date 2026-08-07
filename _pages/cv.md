@@ -6,15 +6,16 @@ nav: true
 nav_order: 4
 ---
 
-A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260630.pdf).
+A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260807.pdf).
 
 ---
 
 ## Current Position
 
-**Since 2024 - Postdoctoral Fellow**  
-MARUM – Center for Marine Environmental Sciences  
-University of Bremen, Germany
+**Since 2024 - Postdoctoral Fellow/Researcher**  
+Cluster of Excellence **The Ocean Floor – Earth's Uncharted Interface**  
+University of Bremen
+*Moving to the University of Oldenburg in September 2026*
 
 Research focus:
 - Earth system modelling
@@ -28,7 +29,7 @@ Research focus:
 
 | Years | Position |
 |-------|----------|
-| 2024–present | Postdoctoral Fellow, MARUM, University of Bremen |
+| 2024–present | Postdoctoral Fellow/Researcher, Cluster of Excellence "The Ocean Floor", University of Bremen |
 | 2022–2023 | Scientific Researcher, Max Planck Institute for Meteorology |
 | 2019–2022 | Simons Postdoctoral Fellow, University of California Riverside |
 | 2018–2019 | Postdoctoral Researcher, University of California Riverside |
@@ -100,13 +101,7 @@ Selected invited seminars include
 
 ### Student mentoring
 
-Co-supervision of
-
-- PhD students
-- MSc students
-- BSc students
-
-covering marine biogeochemistry, Earth system modelling and paleoceanography.
+I have co-supervised **3 PhD, 2 MSc, and 1 undergraduate researcher** working on projects spanning marine biogeochemistry, Earth system modelling, and paleoceanography. These collaborations have resulted in several peer-reviewed publications and ongoing manuscripts.
 
 ---
 
@@ -124,15 +119,23 @@ Reviewer for journals including
 - Nature Communications
 - Communications Earth & Environment
 - Biogeosciences
-- Geophysical Research: Oceans
+- Journal of Geophysical Research: Oceans
 - Geoscientific Model Development
 - Paleoceanography and Paleoclimatology
 
-### Professional service
+### Scientific working groups and international networks
+
+- **SCOR – Data SYnthesis and Method Harmonization for Global Benthic Modeling (SYM-Benthic)**  
+  Co-developer of working group proposal (under review)
+- **PAGES PO2 – Past Ocean Oxygenation**  
+  Full member; former Web Officer
+- **TIMES – Time Integrated Matrix for Earth Sciences**  
+  Full member; contributor to the Climate Modeling Working Group and Cretaceous Team
+
+### Institutional service
 
 - Member, MARUM Center Council
-- MARUM Postdoctoral Representative
-- PAGES PO2 Web Officer
+- MARUM Postdoctoral Representative (2024–2025)
 
 ---
 
