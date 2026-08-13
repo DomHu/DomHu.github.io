@@ -60,7 +60,7 @@ cGENIE also allows us to combine spatially distributed geological observations o
 <div style="text-align:center; margin: 25px 0 40px 0;">
   <img src="/assets/img/cGENIE/cGENIE_EndPermian_Appl.png"
        alt="cGENIE simulations of end-Permian ocean redox conditions showing increased photic-zone hydrogen sulfide and lower seafloor oxygen during the main extinction compared with Late Permian background conditions, together with geological proxy observations."
-       style="width:100%; max-width:550px;">
+       style="width:100%; max-width:800px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     <b>cGENIE simulations of ocean redox conditions across the end-Permian mass extinction.</b> Simulations constrained by geological observations show how warming and enhanced nutrient recycling intensified ocean anoxia and expanded euxinic waters onto continental shelves. Adapted from <a href="https://doi.org/10.1029/2018PA003470">Hülse et al. (2019)</a>.
   </div>

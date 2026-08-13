@@ -49,7 +49,7 @@ OMEN-SED can be applied to individual sediment sites using locally observed envi
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED/OMEN_profiles.png"
        alt="Depth profiles of organic carbon, oxygen, nitrate, ammonium, and phosphate at two marine sediment sites, showing OMEN-SED model results as blue lines and observations as black dots"
-       style="width:100%; max-width:900px;">
+       style="width:100%; max-width:750px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     OMEN-SED simulations compared with observations at two marine sediment sites. Model results (blue lines) capture changes in organic carbon, oxygen, and nutrient concentrations with sediment depth. 
   </div>
@@ -62,7 +62,7 @@ The computational efficiency of OMEN-SED allows us to run the model at thousands
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED/MAP_Corg_fluxes.png"
        alt="Global organic carbon burial in coastal margin sediments simulated with OMEN-SED."
-       style="width:100%; max-width:750px;">
+       style="width:100%; max-width:550px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     Global organic carbon burial in coastal margin sediments simulated with OMEN-SED. Adapted from Arndt, Hülse, et al. (in revision).
   </div>
