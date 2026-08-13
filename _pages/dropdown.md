@@ -7,8 +7,6 @@ dropdown: true
 children:
   - title: OMEN-SED
     permalink: /omen-sed/
-  - title: OWEN-CAT
-    permalink: /owen-cat/
   - title: cGENIE
     permalink: /cgenie/
 ---
