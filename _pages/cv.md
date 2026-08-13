@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260813.pdf).
