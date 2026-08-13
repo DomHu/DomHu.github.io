@@ -97,19 +97,19 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 
 **Further selected publication:**
 
-[Hülse et al. (2019, Paleoceanography and Paleoclimatology)](https://doi.org/10.1029/2018PA003470)  
+[Hülse et al. (2019, *Paleoceanography and Paleoclimatology*)](https://doi.org/10.1029/2018PA003470)  
 *Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
 
-Pika, P., **Hülse, D.**, and Arndt, S. (2021). OMEN-SED(-RCM)(v1.1): A pseudo reactive continuum representation of organic matter degradation dynamics for OMEN-SED. *Geoscientific Model Development*. [DOI](https://doi.org/10.5194/gmd-14-7155-2021)  
+[Pika et al. (2021, *GMD*)](https://doi.org/10.5194/gmd-14-7155-2021)  
 *Extending OMEN-SED to represent organic matter degradation as a continuous spectrum of reactivities.*
 
-\*Bradley, J. A., \* **Hülse, D.**, LaRowe, D. E., and Arndt, S. (2022). Transfer efficiency of organic carbon in marine sediments. *Nature Communications*, 13, 7297. [DOI](https://doi.org/10.1038/s41467-022-35112-9)  
+[\*Bradley, \*Hülse et al. (2022, *Nature Communications*)](https://doi.org/10.1038/s41467-022-35112-9)  
 *Applying OMEN-SED globally to show large spatialial variabilitzy in organic carbon transfer through marine sediments.*
 
-Pika, P., **Hülse, D.**, Eglinton, T. I., and Arndt, S. (2023). Regional patterns of apparent organic matter reactivity in marine sediments. *Global Biogeochemical Cycles*. [DOI](https://doi.org/10.1029/2022GB007636)  
+[Pika et al. (2023, *Global Biogeochemical Cycles*)](https://doi.org/10.1029/2022GB007636)  
 *Mapping spatial patterns in organic matter reactivity across the global seafloor.*
 
-\* **Hülse, D.** and \*Ridgwell, A. (2025). Instability in the geological regulation of Earth’s climate. *Science*. [DOI](https://doi.org/10.1126/science.adh7730)  
+[\* Hülse & \*Ridgwell (2025, *Science*)](https://doi.org/10.1126/science.adh7730)  
 *Using coupled sediment–Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can affect long-term climate stability.*
 
 

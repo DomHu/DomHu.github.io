@@ -85,25 +85,25 @@ We used transient cGENIE simulations to investigate how interactions between org
 
 ## Selected publications using cGENIE
 
-**Xu et al. (in revision, Geobiology)**  
+Xu et al. (in revision, Geobiology)  
 *Using idealized cGENIE model worlds to explore how atmospheric oxygen, climate, marine nutrients, organic matter export, and continental configuration interact to control seafloor oxygenation.*
 
-[**Vervoort et al. (2026, *Paleoceanography & Paleoclimatology*)**](https://doi.org/10.1029/2025PA005181) 
+[Vervoort et al. (2026, *Paleoceanography & Paleoclimatology*)](https://doi.org/10.1029/2025PA005181) 
 *Investigating how astronomical forcing is transformed by carbon-cycle feedbacks and recorded in marine sediments.*
 
-[**Carrapa et al. (2026, *Communications Earth & Environment*)**](https://doi.org/10.1038/s43247-026-03457-4)
+[Carrapa et al. (2026, *Communications Earth & Environment*)](https://doi.org/10.1038/s43247-026-03457-4)
 *Exploring how volcanic ash fertilization of the ocean may have influenced marine productivity, ecosystems, and global climate during the Late Miocene.*
 
-[**\* Hülse & \*Ridgwell (2025, Science)**](https://doi.org/10.1126/science.adh7730)  
+[\*Hülse & \*Ridgwell (2025, Science)](https://doi.org/10.1126/science.adh7730)  
 *Using transient Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can accelerate climate recovery and lead to unexpected climate instability.*
 
-[**Pohl et al. (2023, *Science Advances*)**](https://doi.org/10.1126/sciadv.adg767)  
+[Pohl et al. (2023, *Science Advances*)](https://doi.org/10.1126/sciadv.adg767)  
 *Combining cGENIE with an animal physiological model to show how climate and continental configuration restricted marine organisms' geographic ranges, increasing extinction susceptibility during the Early Paleozoic.*
 
-[**Hülse et al. (2021, Nature Geoscience)**](https://doi.org/10.1038/s41561-021-00829-7)  
+[Hülse et al. (2021, Nature Geoscience)](https://doi.org/10.1038/s41561-021-00829-7)  
 *Combining cGENIE simulations with geological observations to show how warming, enhanced nutrient recycling, and expanding ocean euxinia contributed to the end-Permian mass extinction.*
 
-[**Hülse et al. (2019, Paleoceanography and Paleoclimatology)**](https://doi.org/10.1029/2018PA003470)  
+[Hülse et al. (2019, Paleoceanography and Paleoclimatology)](https://doi.org/10.1029/2018PA003470)  
 *Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
 
 
