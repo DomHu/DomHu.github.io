@@ -14,7 +14,7 @@ nav: false
        alt="Schematic of the cGENIE Earth-system modelling framework, representing interactions between the ocean, atmosphere, marine biogeochemistry, weathering, and sediments."
        style="width:100%; max-width:550px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    The cGENIE Earth-system modelling framework represents interactions between the ocean, atmosphere, marine biogeochemistry, weathering, and sediments. 
+    The cGENIE Earth-system modelling framework represents interactions between the ocean, atmosphere, marine biogeochemistry, weathering, and sediments. Adapted from an earlier version of Andy Ridgwell (UCR).
   </div>
 </div>
 
@@ -66,50 +66,47 @@ cGENIE also allows us to combine spatially distributed geological observations o
   </div>
 </div>
 
-### Sediment–ocean feedbacks
+### Earth-system recovery and climate stability
 
-OMEN-SED can also be used to quantify the exchange of carbon, nutrients, oxygen, and other compounds across the sediment–water interface. Mapping these fluxes globally helps us understand how processes below the seafloor feed back on ocean biogeochemistry.
+We used transient cGENIE simulations to investigate how interactions between organic carbon burial, ocean oxygen, nutrient cycling, and climate control Earth-system recovery following massive CO<sub>2</sub> release. As the climate warms, more nutrients enter the ocean, stimulating marine productivity and organic carbon burial. At the same time, ocean oxygen declines due to lower oxygen solubility and increased oxygen demand from organic matter degradation. Reduced ocean oxygen increases phosphorus recycling from marine sediments, making even more nutrients available and strengthening the feedback. Our simulations showed that this can greatly accelerate CO<sub>2</sub> removal and climate recovery. Under some conditions, the feedback becomes so strong that the climate overshoots its initial state and temporarily enters a colder climate. This provides a possible mechanism for some of the extreme cooling events seen in Earth's geological history.
 
 <div style="text-align:center; margin: 25px 0 45px 0;">
-  <img src="/assets/img/OMEN-SED/Global_SWI_fluxes.png"
-       alt="Global maps of oxygen, nitrate, and dissolved iron fluxes across the sediment-water interface simulated with OMEN-SED"
+  <img src="/assets/img/cGENIE/cGENIE_Science_PRESS_2.png"
+       alt="Modeled Earth-system trajectory following a massive carbon dioxide release, showing initial warming followed by a long recovery associated with changing ocean nutrient levels and an overshoot into a cooler climate state."
        style="width:100%; max-width:1200px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    OMEN-SED simulations of the global exchange of oxygen, nitrate, and dissolved iron between marine sediments and the overlying ocean.
+    Sequence of Earth-system changes following a massive CO<sub>2</sub> release. The trajectory traces the modeled evolution of global mean surface temperature (vertical axis and color) and ocean phosphate inventory (horizontal axis) as the Earth system warms and subsequently recovers (Andy Ridgwell/UCR).
   </div>
 </div>
 
 
-### Coupling sediments to the Earth system
-
-A major goal of OMEN-SED has always been to bring sediment biogeochemistry into global Earth system models. We have already coupled OMEN-SED to cGENIE, allowing organic carbon burial and phosphorus recycling to respond dynamically to changes in the ocean and climate. Starting in September 2026, I will extend this approach by coupling OMEN-SED to the UVic Earth System Climate Model, opening up new applications to modern and future environmental change.
-
 ---
 
-## Publications
 
-**The original description and development of OMEN-SED:**
+## Selected publications using cGENIE
 
-**Hülse, D.**, Arndt, S., Daines, S. J., Regnier, P. & Ridgwell, A. (2018). OMEN-SED 0.1: a novel, numerically efficient organic matter sediment diagenesis module for coupling to Earth system models. *Geoscientific Model Development*, **11**, 2649–2689. [DOI](https://doi.org/10.5194/gmd-11-2649-2018)  
+**Xu et al. (in revision, Geobiology)**  
+*Using idealized cGENIE model worlds to explore how atmospheric oxygen, climate, marine nutrients, organic matter export, and continental configuration interact to control seafloor oxygenation.*
+
+[**Vervoort et al. (2026, *Paleoceanography & Paleoclimatology*)**](https://doi.org/10.1029/2025PA005181) 
+*Investigating how astronomical forcing is transformed by carbon-cycle feedbacks and recorded in marine sediments.*
+
+[**Carrapa et al. (2026, *Communications Earth & Environment*)**] (https://doi.org/10.1038/s43247-026-03457-4)
+*Exploring how volcanic ash fertilization of the ocean may have influenced marine productivity, ecosystems, and global climate during the Late Miocene.*
+
+[**\* Hülse & \*Ridgwell (2025, Science)**](https://doi.org/10.1126/science.adh7730)  
+*Using transient Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can accelerate climate recovery and lead to unexpected climate instability.*
+
+[**Pohl et al. (2023, *Science Advances*)**](https://doi.org/10.1126/sciadv.adg767)  
+*Combining cGENIE with an animal physiological model to show how climate and continental configuration restricted marine organisms' geographic ranges, increasing extinction susceptibility during the Early Paleozoic.*
+
+[**Hülse et al. (2021, Nature Geoscience)**](https://doi.org/10.1038/s41561-021-00829-7)  
+*Combining cGENIE simulations with geological observations to show how warming, enhanced nutrient recycling, and expanding ocean euxinia contributed to the end-Permian mass extinction.*
+
+[**Hülse et al. (2019, Paleoceanography and Paleoclimatology)**](https://doi.org/10.1029/2018PA003470)  
+*Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
 
 
-**Further selected publication:**
-
-**Hülse, D.**, Arndt, S., and Ridgwell, A. (2019). Mitigation of extreme Ocean Anoxic Event conditions by organic matter sulfurization. *Paleoceanography and Paleoclimatology*, 34(4), 476–489. [DOI](https://doi.org/10.1029/2018PA003470)  
-*Coupling OMEN-SED to cGENIE to investigate sediment–ocean feedbacks during ocean anoxic events.*
-
-Pika, P., **Hülse, D.**, and Arndt, S. (2021). OMEN-SED(-RCM)(v1.1): A pseudo reactive continuum representation of organic matter degradation dynamics for OMEN-SED. *Geoscientific Model Development*. [DOI](https://doi.org/10.5194/gmd-14-7155-2021)  
-*Extending OMEN-SED to represent organic matter degradation as a continuous spectrum of reactivities.*
-
-\*Bradley, J. A., \* **Hülse, D.**, LaRowe, D. E., and Arndt, S. (2022). Transfer efficiency of organic carbon in marine sediments. *Nature Communications*, 13, 7297. [DOI](https://doi.org/10.1038/s41467-022-35112-9)  
-*Applying OMEN-SED globally to show large spatialial variabilitzy in organic carbon transfer through marine sediments.*
-
-Pika, P., **Hülse, D.**, Eglinton, T. I., and Arndt, S. (2023). Regional patterns of apparent organic matter reactivity in marine sediments. *Global Biogeochemical Cycles*. [DOI](https://doi.org/10.1029/2022GB007636)  
-*Mapping spatial patterns in organic matter reactivity across the global seafloor.*
-
-\* **Hülse, D.** and \*Ridgwell, A. (2025). Instability in the geological regulation of Earth’s climate. *Science*. [DOI](https://doi.org/10.1126/science.adh7730)  
-*Using coupled sediment–Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can affect long-term climate stability.*
-
+See my [Publications](/publications/) page for the full publication list.
 
 \* These authors contributed equally.
-

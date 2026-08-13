@@ -51,7 +51,7 @@ OMEN-SED can be applied to individual sediment sites using locally observed envi
        alt="Depth profiles of organic carbon, oxygen, nitrate, ammonium, and phosphate at two marine sediment sites, showing OMEN-SED model results as blue lines and observations as black dots"
        style="width:100%; max-width:900px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    OMEN-SED simulations compared with observations at two marine sediment sites. Model results (blue lines) capture changes in organic carbon, oxygen, and nutrient concentrations with sediment depth.
+    OMEN-SED simulations compared with observations at two marine sediment sites. Model results (blue lines) capture changes in organic carbon, oxygen, and nutrient concentrations with sediment depth. 
   </div>
 </div>
 
@@ -64,7 +64,7 @@ The computational efficiency of OMEN-SED allows us to run the model at thousands
        alt="Global organic carbon burial in coastal margin sediments simulated with OMEN-SED."
        style="width:100%; max-width:750px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    Global organic carbon burial in coastal margin sediments simulated with OMEN-SED.
+    Global organic carbon burial in coastal margin sediments simulated with OMEN-SED. Adapted from Arndt, Hülse, et al. (in revision).
   </div>
 </div>
 
@@ -97,8 +97,8 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 
 **Further selected publication:**
 
-**Hülse, D.**, Arndt, S., and Ridgwell, A. (2019). Mitigation of extreme Ocean Anoxic Event conditions by organic matter sulfurization. *Paleoceanography and Paleoclimatology*, 34(4), 476–489. [DOI](https://doi.org/10.1029/2018PA003470)  
-*Coupling OMEN-SED to cGENIE to investigate sediment–ocean feedbacks during ocean anoxic events.*
+[**Hülse et al. (2019, Paleoceanography and Paleoclimatology)**](https://doi.org/10.1029/2018PA003470)  
+*Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
 
 Pika, P., **Hülse, D.**, and Arndt, S. (2021). OMEN-SED(-RCM)(v1.1): A pseudo reactive continuum representation of organic matter degradation dynamics for OMEN-SED. *Geoscientific Model Development*. [DOI](https://doi.org/10.5194/gmd-14-7155-2021)  
 *Extending OMEN-SED to represent organic matter degradation as a continuous spectrum of reactivities.*
@@ -112,6 +112,8 @@ Pika, P., **Hülse, D.**, Eglinton, T. I., and Arndt, S. (2023). Regional patter
 \* **Hülse, D.** and \*Ridgwell, A. (2025). Instability in the geological regulation of Earth’s climate. *Science*. [DOI](https://doi.org/10.1126/science.adh7730)  
 *Using coupled sediment–Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can affect long-term climate stability.*
 
+
+See my [Publications](/publications/) page for the full publication list.
 
 \* These authors contributed equally.
 
