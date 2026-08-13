@@ -10,7 +10,7 @@ nav: false
 **OMEN-SED** is a vertically resolved 1D early diagenetic model that simulates the main processes related to organic matter degradation in the (marine) sediments. Because it assumes steady-state conditions, the underlying equations can be solved analytically, making the model very fast to run while still capturing much of what more complex sediment models can do. This means we can run OMEN-SED at thousands of locations across the global seafloor or couple it to Earth system models to study how sediments interact with the ocean and global biogeochemical cycles.
 
 
-<div style="text-align:center; margin: 25px 0;">
+<div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED_Website.png"
        alt="Schematic representation of the OMEN-SED sediment model"
        style="width:100%; max-width:550px;">
@@ -46,10 +46,10 @@ I use OMEN-SED to investigate how environmental conditions regulate carbon prese
 
 OMEN-SED can be applied to individual sediment sites using locally observed environmental conditions. Comparing simulated pore-water and solid-phase profiles with measurements allows us to test how well the model captures organic matter degradation and the resulting biogeochemical dynamics in the sediment.
 
-<div style="text-align:center; margin: 25px 0;">
+<div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED/OMEN_profiles.png"
        alt="Depth profiles of organic carbon, oxygen, nitrate, ammonium, and phosphate at two marine sediment sites, showing OMEN-SED model results as blue lines and observations as black dots"
-       style="width:100%; max-width:900px;"
+       style="width:100%; max-width:900px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     OMEN-SED simulations compared with observations at two marine sediment sites. Model results (blue lines) capture changes in organic carbon, oxygen, and nutrient concentrations with sediment depth.
   </div>
@@ -59,7 +59,7 @@ OMEN-SED can be applied to individual sediment sites using locally observed envi
 
 The computational efficiency of OMEN-SED allows us to run the model at thousands of locations across the global seafloor. By combining the model with global observations, we can estimate where and how much organic carbon is buried in marine sediments and identify regions that are particularly important for long-term carbon storage.
 
-<div style="text-align:center; margin: 25px 0;">
+<div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED/MAP_Corg_fluxes.png"
        alt="Global organic carbon burial in coastal margin sediments simulated with OMEN-SED."
        style="width:100%; max-width:750px;">
@@ -72,7 +72,7 @@ The computational efficiency of OMEN-SED allows us to run the model at thousands
 
 OMEN-SED can also be used to quantify the exchange of carbon, nutrients, oxygen, and other compounds across the sediment–water interface. Mapping these fluxes globally helps us understand how processes below the seafloor feed back on ocean biogeochemistry.
 
-<div style="text-align:center; margin: 25px 0;">
+<div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED/Global_SWI_fluxes.png"
        alt="Global maps of oxygen, nitrate, and dissolved iron fluxes across the sediment-water interface simulated with OMEN-SED"
        style="width:100%; max-width:1200px;">
