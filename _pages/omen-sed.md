@@ -109,7 +109,7 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 [Pika et al. (2023, *Global Biogeochemical Cycles*)](https://doi.org/10.1029/2022GB007636)  
 *Mapping spatial patterns in organic matter reactivity across the global seafloor.*
 
-[\* Hülse & \*Ridgwell (2025, *Science*)](https://doi.org/10.1126/science.adh7730)  
+[\*Hülse & \*Ridgwell (2025, Science)](https://doi.org/10.1126/science.adh7730)  
 *Using coupled sediment–Earth-system simulations to reveal how organic carbon burial and phosphorus recycling can affect long-term climate stability.*
 
 
