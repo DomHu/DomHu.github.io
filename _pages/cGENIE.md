@@ -73,7 +73,7 @@ We used transient cGENIE simulations to investigate how interactions between org
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/cGENIE/cGENIE_Science_PRESS_2.png"
        alt="Modeled Earth-system trajectory following a massive carbon dioxide release, showing initial warming followed by a long recovery associated with changing ocean nutrient levels and an overshoot into a cooler climate state."
-       style="width:100%; max-width:1200px;">
+       style="width:100%; max-width:800px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     Sequence of Earth-system changes following a massive CO<sub>2</sub> release. The trajectory traces the modeled evolution of global mean surface temperature (vertical axis and color) and ocean phosphate inventory (horizontal axis) as the Earth system warms and subsequently recovers (Andy Ridgwell/UCR).
   </div>
@@ -88,7 +88,7 @@ We used transient cGENIE simulations to investigate how interactions between org
 Xu et al. (in revision, Geobiology)  
 *Using idealized cGENIE model worlds to explore how atmospheric oxygen, climate, marine nutrients, organic matter export, and continental configuration interact to control seafloor oxygenation.*
 
-[Vervoort et al. (2026, Paleoceanography & Paleoclimatology)](https://doi.org/10.1029/2025PA005181) 
+[Vervoort et al. (2026, Paleoceanography & Paleoclimatology)](https://doi.org/10.1029/2025PA005181)  
 *Investigating how astronomical forcing is transformed by carbon-cycle feedbacks and recorded in marine sediments.*
 
 [Carrapa et al. (2026, Communications Earth & Environment)](https://doi.org/10.1038/s43247-026-03457-4)  

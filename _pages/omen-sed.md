@@ -88,14 +88,10 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 
 ---
 
-## Publications
+## Selected Publications
 
-**The original description and development of OMEN-SED:**
-
-[Hülse et al. (2018, *GMD*)] (https://doi.org/10.5194/gmd-11-2649-2018)  
-
-
-**Further selected publication:**
+[Hülse et al. (2018, *GMD*)](https://doi.org/10.5194/gmd-11-2649-2018)  
+*The original description and development of OMEN-SED*
 
 [Hülse et al. (2019, *Paleoceanography and Paleoclimatology*)](https://doi.org/10.1029/2018PA003470)  
 *Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
