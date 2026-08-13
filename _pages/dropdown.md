@@ -8,5 +8,5 @@ children:
   - title: OMEN-SED
     permalink: /omen-sed/
   - title: cGENIE
-    permalink: /cgenie/
+    permalink: /cGENIE/
 ---
