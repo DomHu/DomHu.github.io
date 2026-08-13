@@ -73,7 +73,7 @@ The computational efficiency of OMEN-SED allows us to run the model at thousands
 OMEN-SED can also be used to quantify the exchange of carbon, nutrients, oxygen, and other compounds across the sediment–water interface. Mapping these fluxes globally helps us understand how processes below the seafloor feed back on ocean biogeochemistry.
 
 <div style="text-align:center; margin: 25px 0;">
-  <img src="/assets/img/Global_SWI_fluxes.png"
+  <img src="/assets/img/OMEN-SED/Global_SWI_fluxes.png"
        alt="Global maps of oxygen, nitrate, and dissolved iron fluxes across the sediment-water interface simulated with OMEN-SED"
        style="width:100%; max-width:1200px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
@@ -90,14 +90,12 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 
 ## Publications
 
-The original description and development of OMEN-SED:
+**The original description and development of OMEN-SED:**
 
-**Hülse, D., Arndt, S., Daines, S. J., Regnier, P. & Ridgwell, A. (2018).**  
-OMEN-SED 0.1: a novel, numerically efficient organic matter sediment diagenesis module for coupling to Earth system models.  
-*Geoscientific Model Development*, **11**, 2649–2689.  
-<a href="https://doi.org/10.5194/gmd-11-2649-2018">Publication</a>
+**Hülse, D.**, Arndt, S., Daines, S. J., Regnier, P. & Ridgwell, A. (2018). OMEN-SED 0.1: a novel, numerically efficient organic matter sediment diagenesis module for coupling to Earth system models. *Geoscientific Model Development*, **11**, 2649–2689. [DOI](https://doi.org/10.5194/gmd-11-2649-2018)  
 
-Further selected publication:
+
+**Further selected publication:**
 
 **Hülse, D.**, Arndt, S., and Ridgwell, A. (2019). Mitigation of extreme Ocean Anoxic Event conditions by organic matter sulfurization. *Paleoceanography and Paleoclimatology*, 34(4), 476–489. [DOI](https://doi.org/10.1029/2018PA003470)  
 *Coupling OMEN-SED to cGENIE to investigate sediment–ocean feedbacks during ocean anoxic events.*
