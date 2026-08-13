@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260807.pdf).
+A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260813.pdf).
 
 ---
 
@@ -148,7 +148,7 @@ Reviewer for journals including
 
 ## Selected Downloads
 
-- 📄 [Curriculum Vitae](/assets/pdf/CV_Huelse_20260630.pdf)
+- 📄 [Curriculum Vitae](/assets/pdf/CV_Huelse_20260813.pdf)
 - 📘 [PhD Thesis (2018)](/assets/pdf/DHuelse_PhDthesis_140118.pdf)
 - 📙 [MSc Thesis (2013): *Effect of ocean euxinia on the efficiency of the biological carbon pump and its feedbacks on global biogeochemical cycles and climate during OAE2*](/assets/pdf/DHuelse_MScDiss_092013.pdf)
 - 📙 [Diplom Thesis (2008): *Eine generische Implementierung von modularen ggT-Algorithmen* ("A Generic Implementation of Modular GCD Algorithms")](/assets/pdf/DHuelse_Diplomarbeit_052008.pdf)
