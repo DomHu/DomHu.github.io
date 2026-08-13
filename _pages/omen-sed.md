@@ -92,12 +92,12 @@ A major goal of OMEN-SED has always been to bring sediment biogeochemistry into 
 
 **The original description and development of OMEN-SED:**
 
-**Hülse, D.**, Arndt, S., Daines, S. J., Regnier, P. & Ridgwell, A. (2018). OMEN-SED 0.1: a novel, numerically efficient organic matter sediment diagenesis module for coupling to Earth system models. *Geoscientific Model Development*, **11**, 2649–2689. [DOI](https://doi.org/10.5194/gmd-11-2649-2018)  
+[Hülse et al. (2018, *GMD*)] (https://doi.org/10.5194/gmd-11-2649-2018)  
 
 
 **Further selected publication:**
 
-[**Hülse et al. (2019, Paleoceanography and Paleoclimatology)**](https://doi.org/10.1029/2018PA003470)  
+[Hülse et al. (2019, Paleoceanography and Paleoclimatology)](https://doi.org/10.1029/2018PA003470)  
 *Coupling OMEN-SED to cGENIE to investigate how organic matter sulfurization affects carbon burial, ocean oxygenation, and recovery from Ocean Anoxic Event 2.*
 
 Pika, P., **Hülse, D.**, and Arndt, S. (2021). OMEN-SED(-RCM)(v1.1): A pseudo reactive continuum representation of organic matter degradation dynamics for OMEN-SED. *Geoscientific Model Development*. [DOI](https://doi.org/10.5194/gmd-14-7155-2021)  

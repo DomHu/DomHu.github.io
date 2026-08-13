@@ -29,7 +29,7 @@ One of the things I particularly like about cGENIE is its flexibility. The model
        alt="Bathymetric reconstructions used in cGENIE spanning the Phanerozoic."
        style="width:100%; max-width:550px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    Examples of cGENIE continental configurations spanning the Phanerozoic. Adapted from [Pohl et al. (2022)](https://www.nature.com/articles/s41586-022-05018-z).
+    Examples of cGENIE continental configurations spanning the Phanerozoic. Adapted from <a href="https://www.nature.com/articles/s41586-022-05018-z">Pohl et al. (2022)</a>.
   </div>
 </div>
 
@@ -46,9 +46,9 @@ We coupled OMEN-SED to cGENIE to explore how changes in organic carbon burial fe
 <div style="text-align:center; margin: 25px 0 40px 0;">
   <img src="/assets/img/cGENIE/cGENIE_OAE2_Appl.png"
        alt="cGENIE simulations of Ocean Anoxic Event 2 showing simulated sediment organic carbon compared with geological observations, and zonally averaged ocean oxygen concentrations without and with organic matter sulfurization."
-       style="width:100%; max-width:1200px;"
+       style="width:100%; max-width:1200px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    <b>cGENIE simulations of Ocean Anoxic Event 2. Simulated sediment organic carbon is compared with geological observations (left), while model experiments show how rapid organic matter sulfurization can substantially reduce the extent of ocean anoxia (middle and right). Percentages indicate the fraction of the ocean that is anoxic. Adapted from [Hülse et al. (2019)](https://doi.org/10.1029/2018PA003470).
+    <b>cGENIE simulations of Ocean Anoxic Event 2.</b> Simulated sediment organic carbon is compared with geological observations (left), while model experiments show how rapid organic matter sulfurization can substantially reduce the extent of ocean anoxia (middle and right). Percentages indicate the fraction of the ocean that is anoxic. Adapted from <a href="https://doi.org/10.1029/2018PA003470">Hülse et al. (2019)</a>.
   </div>
 </div>
 
@@ -60,9 +60,9 @@ cGENIE also allows us to combine spatially distributed geological observations o
 <div style="text-align:center; margin: 25px 0 40px 0;">
   <img src="/assets/img/cGENIE/cGENIE_EndPermian_Appl.png"
        alt="cGENIE simulations of end-Permian ocean redox conditions showing increased photic-zone hydrogen sulfide and lower seafloor oxygen during the main extinction compared with Late Permian background conditions, together with geological proxy observations."
-       style="width:100%; max-width:1200px;"
+       style="width:100%; max-width:1200px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    <b>cGENIE simulations of ocean redox conditions across the end-Permian mass extinction. Simulations constrained by geological observations show how warming and enhanced nutrient recycling intensified ocean anoxia and expanded euxinic waters onto continental shelves. Adapted from [Hülse et al. (2021)](https://doi.org/10.1038/s41561-021-00829-7).
+    <b>cGENIE simulations of ocean redox conditions across the end-Permian mass extinction.</b> Simulations constrained by geological observations show how warming and enhanced nutrient recycling intensified ocean anoxia and expanded euxinic waters onto continental shelves. Adapted from <a href="https://doi.org/10.1029/2018PA003470">Hülse et al. (2019)</a>.
   </div>
 </div>
 
@@ -91,7 +91,7 @@ We used transient cGENIE simulations to investigate how interactions between org
 [**Vervoort et al. (2026, *Paleoceanography & Paleoclimatology*)**](https://doi.org/10.1029/2025PA005181) 
 *Investigating how astronomical forcing is transformed by carbon-cycle feedbacks and recorded in marine sediments.*
 
-[**Carrapa et al. (2026, *Communications Earth & Environment*)**] (https://doi.org/10.1038/s43247-026-03457-4)
+[**Carrapa et al. (2026, *Communications Earth & Environment*)**](https://doi.org/10.1038/s43247-026-03457-4)
 *Exploring how volcanic ash fertilization of the ocean may have influenced marine productivity, ecosystems, and global climate during the Late Miocene.*
 
 [**\* Hülse & \*Ridgwell (2025, Science)**](https://doi.org/10.1126/science.adh7730)  
