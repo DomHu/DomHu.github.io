@@ -22,7 +22,7 @@ nav: false
 
 ### What does OMEN-SED simulate?
 
-OMEN-SED simulates what happens to organic matter after it reaches the seafloor. As organic matter is degraded, the model simulates the main reactions involved in early diagenesis and how they affect the cycling of carbon, oxygen, nutrients, and other elements within the sediment.
+OMEN-SED simulates what happens to organic matter in the seafloor. As organic matter is degraded, the model simulates the main reactions involved in early diagenesis and how they affect the cycling of carbon, oxygen, nutrients, and other elements within the sediment.
 
 
 The model includes:
