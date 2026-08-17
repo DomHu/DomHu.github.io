@@ -9,6 +9,8 @@ nav: false
 
 **OMEN-SED** is a vertically resolved 1D early diagenetic model that simulates the main processes related to organic matter degradation in the (marine) sediments. Because it assumes steady-state conditions, the underlying equations can be solved analytically, making the model very fast to run while still capturing much of what more complex sediment models can do. This means we can run OMEN-SED at thousands of locations across the global seafloor or couple it to Earth system models to study how sediments interact with the ocean and global biogeochemical cycles.
 
+The OMEN-SED source codes (MATLAB and FORTRAN) are available on my [GitHub repository](https://github.com/DomHu/OMEN-SED) under the MIT License.
+
 
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/OMEN-SED_Website.png"
