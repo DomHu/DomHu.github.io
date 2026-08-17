@@ -9,4 +9,6 @@ children:
     permalink: /omen-sed/
   - title: cGENIE
     permalink: /cGENIE/
+  - title: Other models
+    permalink: /other-models/
 ---
