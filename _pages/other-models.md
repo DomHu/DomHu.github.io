@@ -5,9 +5,8 @@ permalink: /other-models/
 nav: false
 ---
 
-## Other models
 
-Alongside OMEN-SED and cGENIE, I have contributed to the development and application of other numerical modelling tools for marine sediments and biogeochemistry.
+Beside OMEN-SED and cGENIE, I have contributed to the development and application of other numerical modelling tools for marine sediments and biogeochemistry.
 
 ### IMP — Implicit model of Multiple Particles and diagenesis
 
