@@ -16,7 +16,7 @@ Together, these research directions aim to uncover the biological and biogeochem
 
 Marine sediments are Earth's largest long-term carbon sink and play a fundamental role in regulating climate by storing organic carbon and recycling nutrients that sustain marine productivity. My research combines seafloor observations, machine learning, and numerical early diagenetic models to understand how interactions between marine ecosystems, sediments, and ocean biogeochemistry control carbon sequestration and nutrient cycling from local scales to the global ocean.
 
-Current research topics include:
+Past and current research topics include:
 
 - Early diagenetic modelling (OMEN-SED)
 - Global marine organic carbon burial
@@ -56,7 +56,7 @@ I use Earth system models to investigate how interactions between climate, marin
   </p>
 </div>
 
-Current research topics include:
+Past and current research topics include:
 
 - Carbon-cycle feedbacks during greenhouse climates
 - Ocean deoxygenation and anoxia
@@ -69,7 +69,7 @@ Current research topics include:
 
 Earth system models provide a framework for interpreting geological proxy records. I develop numerical approaches that help quantify how climatic and biogeochemical signals are transferred, altered, and ultimately preserved in geological archives. This includes modelling organic caron and carbonate diagenesis and developing numerical approaches to better quantify uncertainties in the interpretation of geological proxy records.
 
-Current research topics include:
+Past and current research topics include:
 
 - Diagenetic modelling and proxy signal preservation
 - Quantitative interpretation of geological proxy records
