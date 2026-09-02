@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.marum.de/index.html'>Affiliations</a>. MARUM – Center for Marine Environmental Sciences, University of Bremen, Germany
+subtitle: <a href='https://uol.de/en/icbm'>Affiliations</a>. Institute for Chemistry and Biology of the Marine Environment, University of Oldenburg, Germany
 
 profile:
   align: right
