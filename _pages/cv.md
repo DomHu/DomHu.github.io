@@ -14,8 +14,8 @@ A full PDF version of my CV can be downloaded [here](/assets/pdf/CV_Huelse_20260
 
 **Since 2024 - Postdoctoral Fellow/Researcher**  
 Cluster of Excellence **The Ocean Floor – Earth's Uncharted Interface**  
-University of Bremen
-*Moving to the University of Oldenburg in September 2026*
+University of Bremen  
+University of Oldenburg (since 09/2026)
 
 Research focus:
 - Earth system modelling
@@ -29,7 +29,7 @@ Research focus:
 
 | Years | Position |
 |-------|----------|
-| 2024–present | Postdoctoral Fellow/Researcher, Cluster of Excellence "The Ocean Floor", University of Bremen |
+| 2024–present | Postdoctoral Fellow/Researcher, Cluster of Excellence "The Ocean Floor", University of Bremen and Oldenburg |
 | 2022–2023 | Scientific Researcher, Max Planck Institute for Meteorology |
 | 2019–2022 | Simons Postdoctoral Fellow, University of California Riverside |
 | 2018–2019 | Postdoctoral Researcher, University of California Riverside |
