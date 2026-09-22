@@ -88,7 +88,7 @@ Like any successful researcher, Owen recognizes the importance of recovery. Peri
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/owen/owen_box_circle_full.png"
        alt="Owen sitting in a cardboard box"
-       style="width:100%; max-width:350px;">
+       style="width:100%; max-width:600px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
     Independent assessment of a box. No conclusions should be drawn regarding Owen's views on lower-resolution Earth system models of a related name.
   </div>
