@@ -47,20 +47,22 @@ Owen has been involved in the development of OMEN-SED for many years. His respon
 
 Owen's research interests extend considerably beyond sediment biogeochemistry. Among other things, he conducts experimental work on radiation exposure and extensive field studies of terrestrial vegetation.
 
-<div style="max-width: 500px; margin: 1.5rem auto;">
-  {% include figure.liquid
-     path="assets/img/owen/Owen_Sun0125.jpg"
+<div class="owen-equal-height">
+  <div>
+    {% include figure.liquid
+     path="assets/img/owen/Owen_Sun_cropped.png"
      class="img-fluid rounded z-depth-1"
      caption="Experimental work on prolonged radiation exposure."
-  %}
-</div>
+    %}
+  </div>
 
-<div style="max-width: 700px; margin: 1.5rem auto;">
-  {% include figure.liquid
+  <div>
+    {% include figure.liquid
      path="assets/img/owen/PXL_20260705_074535409.MP.jpg"
      class="img-fluid rounded z-depth-1"
      caption="Field work investigating interactions with terrestrial vegetation."
-  %}
+    %}
+  </div>
 </div>
 
 A further research focus is **complex problem solving**. Owen's preferred approach is to first establish the full extent of a problem and then remain close to it until a solution emerges.
@@ -80,15 +82,16 @@ A further research focus is **complex problem solving**. Owen's preferred approa
 
 Like any successful researcher, Owen recognizes the importance of recovery. Periods of intensive model development and field work are therefore interspersed with carefully planned periods of rest.
 
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
+<div class="owen-equal-height">
+  <div>
     {% include figure.liquid
        path="assets/img/owen/PXL_20220513_073346986.jpg"
        class="img-fluid rounded z-depth-1"
        caption="Recovery after an intensive period of research."
     %}
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
+
+  <div>
     {% include figure.liquid
        path="assets/img/owen/owen_box_circle_full.png"
        class="img-fluid rounded z-depth-1"
@@ -96,7 +99,6 @@ Like any successful researcher, Owen recognizes the importance of recovery. Peri
     %}
   </div>
 </div>
-
 
 ### Contact
 
