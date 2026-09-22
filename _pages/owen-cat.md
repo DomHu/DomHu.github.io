@@ -43,7 +43,7 @@ Owen has been involved in the development of OMEN-SED for many years. His respon
 Owen's research interests extend considerably beyond sediment biogeochemistry. Among other things, he conducts experimental work on radiation exposure and extensive field studies of terrestrial vegetation.
 
 <div style="text-align:center; margin: 25px 0 45px 0;">
-  <img src="/assets/img/owen/Owen_Sun_cropped.png"
+  <img src="/assets/img/owen/Owen_Sun_cropped.jpg"
        alt="Owen sitting in the sun"
        style="width:100%; max-width:500px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
