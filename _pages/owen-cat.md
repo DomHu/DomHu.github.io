@@ -90,7 +90,7 @@ Like any successful researcher, Owen recognizes the importance of recovery. Peri
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid
-       path="assets/img/owen/PXL_20231202_110834979.MP.jpg"
+       path="assets/img/owen/owen_box_circle_full.png"
        class="img-fluid rounded z-depth-1"
        caption="Independent assessment of a box. No conclusions should be drawn regarding Owen's views on lower-resolution Earth system models of a related name."
     %}
