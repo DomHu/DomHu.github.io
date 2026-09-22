@@ -18,7 +18,13 @@ He is perhaps best known for his contributions to the development of **OMEN-SED*
     %}
   </div>
 </div>
-
+<div style="text-align:center; margin: 25px 0 45px 0;">
+  <img src="/assets/img/owen/Owen_High_five_round.png"
+       style="width:100%; max-width:550px;">
+  <div style="font-size:0.9em; margin-top:8px; text-align:center;">
+    Owen. 
+  </div>
+</div>
 
 ### Model development
 
@@ -84,7 +90,7 @@ Like any successful researcher, Owen recognizes the importance of recovery. Peri
     {% include figure.liquid
        path="assets/img/owen/PXL_20220513_073346986.jpg"
        class="img-fluid rounded z-depth-1"
-       caption="Recovery after an intensive period of research."
+       caption="Recovery after an intensive period of coding."
     %}
   </div>
 
