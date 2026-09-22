@@ -2,11 +2,8 @@
 layout: page
 title: OWEN-CAT
 permalink: /owen-cat/
-description: Independent research and model development
 nav: false
 ---
-
-## OWEN-CAT
 
 **Owen** is an independent researcher working with me on Earth system and biogeochemical modelling. His research interests span numerical model development, radiation exposure, complex problem solving, and grass-based field studies.
 
