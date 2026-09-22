@@ -25,54 +25,45 @@ He is perhaps best known for his contributions to the development of **OMEN-SED*
 
 ### Model development
 
-Owen has been involved in the development of OMEN-SED for many years.
-His responsibilities include inspecting MATLAB code, evaluating model
-output, and identifying problems that might otherwise have gone unnoticed.
+Owen has been involved in the development of OMEN-SED for many years. His responsibilities include inspecting MATLAB code, evaluating model output, and identifying problems that might otherwise have gone unnoticed.
 
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid
-       path="assets/img/owen/PXL_20201202_191340850.jpg"
-       class="img-fluid rounded z-depth-1"
-       caption="Owen working on the OMEN-SED source code."
-    %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid
-       path="assets/img/owen/PXL_20260323_165110447.MP.jpg"
-       class="img-fluid rounded z-depth-1"
-       caption="Careful evaluation of model results."
-    %}
-  </div>
+<div style="max-width: 750px; margin: 1.5rem auto;">
+  {% include figure.liquid
+     path="assets/img/owen/PXL_20201202_191340850.jpg"
+     class="img-fluid rounded z-depth-1"
+     caption="Owen working on the OMEN-SED source code."
+  %}
 </div>
 
+<div style="max-width: 750px; margin: 1.5rem auto;">
+  {% include figure.liquid
+     path="assets/img/owen/PXL_20260323_165110447.MP.jpg"
+     class="img-fluid rounded z-depth-1"
+     caption="Careful evaluation of model results."
+  %}
+</div>
 
 ### Research interests
 
-Owen's research interests extend considerably beyond sediment
-biogeochemistry. Among other things, he conducts experimental work on
-radiation exposure and extensive field studies of terrestrial vegetation.
+Owen's research interests extend considerably beyond sediment biogeochemistry. Among other things, he conducts experimental work on radiation exposure and extensive field studies of terrestrial vegetation.
 
-<div class="row">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid
-       path="assets/img/owen/Owen_Sun0125.jpg"
-       class="img-fluid rounded z-depth-1"
-       caption="Experimental work on prolonged radiation exposure."
-    %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid
-       path="assets/img/owen/PXL_20260705_074535409.MP.jpg"
-       class="img-fluid rounded z-depth-1"
-       caption="Field work investigating interactions with terrestrial vegetation."
-    %}
-  </div>
+<div style="max-width: 500px; margin: 1.5rem auto;">
+  {% include figure.liquid
+     path="assets/img/owen/Owen_Sun0125.jpg"
+     class="img-fluid rounded z-depth-1"
+     caption="Experimental work on prolonged radiation exposure."
+  %}
 </div>
 
-A further research focus is **complex problem solving**. Owen's preferred
-approach is to first establish the full extent of a problem and then remain
-close to it until a solution emerges.
+<div style="max-width: 700px; margin: 1.5rem auto;">
+  {% include figure.liquid
+     path="assets/img/owen/PXL_20260705_074535409.MP.jpg"
+     class="img-fluid rounded z-depth-1"
+     caption="Field work investigating interactions with terrestrial vegetation."
+  %}
+</div>
+
+A further research focus is **complex problem solving**. Owen's preferred approach is to first establish the full extent of a problem and then remain close to it until a solution emerges.
 
 <div class="row justify-content-center">
   <div class="col-sm-8 mt-3 mt-md-0">
@@ -87,9 +78,7 @@ close to it until a solution emerges.
 
 ### Work-life balance
 
-Like any successful researcher, Owen recognizes the importance of recovery.
-Periods of intensive model development and field work are therefore
-interspersed with carefully planned periods of rest.
+Like any successful researcher, Owen recognizes the importance of recovery. Periods of intensive model development and field work are therefore interspersed with carefully planned periods of rest.
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -103,7 +92,7 @@ interspersed with carefully planned periods of rest.
     {% include figure.liquid
        path="assets/img/owen/PXL_20231202_110834979.MP.jpg"
        class="img-fluid rounded z-depth-1"
-       caption="Independent assessment of a box."
+       caption="Independent assessment of a box. No conclusions should be drawn regarding Owen's views on lower-resolution Earth system models of a related name."
     %}
   </div>
 </div>
@@ -114,5 +103,4 @@ interspersed with carefully planned periods of rest.
 Owen can be reached at
 [owen@dhuelse.org](mailto:owen@dhuelse.org).
 
-Please note that he is a busy researcher, so an immediate response cannot
-always be guaranteed.
+Please note that he is a busy researcher, so an immediate response cannot always be guaranteed.
