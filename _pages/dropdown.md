@@ -11,4 +11,6 @@ children:
     permalink: /cGENIE/
   - title: Other models
     permalink: /other-models/
+  - title: OWEN-CAT
+    permalink: /owen-cat/
 ---
