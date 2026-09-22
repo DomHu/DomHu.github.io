@@ -14,7 +14,7 @@ He is perhaps best known for his contributions to the development of **OMEN-SED*
     {% include figure.liquid
        path="assets/img/owen/Owen_High_five_round.png"
        class="img-fluid rounded z-depth-1"
-       caption="Owen is awesome - what a productive collaboration."
+       caption="Owen."
     %}
   </div>
 </div>
