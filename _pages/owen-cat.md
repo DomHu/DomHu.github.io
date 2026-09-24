@@ -5,7 +5,7 @@ permalink: /owen-cat/
 nav: false
 ---
 
-**Owen** is an independent researcher working with me on Earth system and biogeochemical modelling. His research interests span numerical model development, radiation exposure, complex problem solving, and grass-based field studies.
+**Owen** is an independent researcher working with me on Earth system and biogeochemical meowdelling. His research interests span numerical meowdel development, radiation exposure, complex problem solving, and grass-based field studies.
 
 He is perhaps best known for his contributions to the development of **OMEN-SED**, where he provides conceptual guidance and hands-on assistance with the MATLAB code. Indeed, he is widely regarded as the real brain behind the model. The (non-coincidental) similarity between **OWEN** and **OMEN** has led to occasional confusion regarding its intellectual origins.
 
@@ -15,9 +15,9 @@ He is perhaps best known for his contributions to the development of **OMEN-SED*
 </div>
 
 
-### Model development
+### Meowdel development
 
-Owen has been involved in the development of OMEN-SED for many years. His responsibilities include inspecting MATLAB code, evaluating model output, and identifying problems that might otherwise have gone unnoticed.
+Owen has been involved in the development of OMEN-SED for many years. His responsibilities include inspecting MATLAB code, evaluating meowdel output, and identifying problems that might otherwise have gone unnoticed.
 
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/owen/PXL_20201202_191340850.jpg"
@@ -33,12 +33,12 @@ Owen has been involved in the development of OMEN-SED for many years. His respon
        alt="Owen evaluating model results"
        style="width:100%; max-width:600px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    Careful evaluation of model results.
+    Careful evaluation of meowdel results.
   </div>
 </div>
 
 
-### Research interests
+### Other research interests
 
 Owen's research interests extend considerably beyond sediment biogeochemistry. Among other things, he conducts experimental work on radiation exposure and extensive field studies of terrestrial vegetation.
 
@@ -74,7 +74,7 @@ A further research focus is **complex problem solving**. Owen's preferred approa
 
 ### Work-life balance
 
-Like any successful researcher, Owen recognizes the importance of recovery. Periods of intensive model development and field work are therefore interspersed with carefully planned periods of rest.
+Like any successful researcher, Owen recognizes the importance of recovery. Periods of intensive meowdel development and field work are therefore interspersed with carefully planned cat naps.
 
 <div style="text-align:center; margin: 25px 0 45px 0;">
   <img src="/assets/img/owen/PXL_20220513_073346986.jpg"
@@ -90,7 +90,7 @@ Like any successful researcher, Owen recognizes the importance of recovery. Peri
        alt="Owen sitting in a cardboard box"
        style="width:100%; max-width:600px;">
   <div style="font-size:0.9em; margin-top:8px; text-align:center;">
-    Independent assessment of a box. No conclusions should be drawn regarding Owen's views on lower-resolution Earth system models of a related name.
+    Independent assessment of a box. No conclusions should be drawn regarding Owen's views on lower-resolution Earth system meowdels of a related name.
   </div>
 </div>
 
